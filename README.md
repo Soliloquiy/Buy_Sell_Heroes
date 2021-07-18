@@ -1,6 +1,6 @@
 # Midterm Project - Buy/Sell Listings Website
 
-This Buy/Sell listings website is a web application built with Node and Express that allow users to effectively search for listings and communicate with the buyer to purchase them. User functionality when not authenticated includes: Ability to browse and filter all listings by category and price. User functionality when authenticated includes: Ability to browse and filter all listings by category and price, create a new listing, edit a current listing, remove a listing, mark a listing as sold, and users and sellers can communicate via messaging. To put it briefly, Buy/Sell Listings Website is similar to Kijiji
+This Buy/Sell listings website is a web application built with Node and Express that allow users to effectively search for listings and communicate with the buyer to purchase them. User functionality when not authenticated includes: Ability to browse and filter all listings by category and price. User functionality when authenticated includes: Ability to browse and filter all listings by category and price, create a new listing, edit a current listing, remove a listing, mark a listing as sold, and users and sellers can communicate via messaging.
 
 A non-logged in user can:
 1. See featured listings on the home page.
